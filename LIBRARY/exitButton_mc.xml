@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="exitButton_mc" itemID="58538e98-000002b9" linkageExportForAS="true" linkageClassName="exitButton_mc" symbolType="button" lastModified="1481871000">
+  <timeline>
+    <DOMTimeline name="exitButton_mc">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2940 -1317S2|2940 -1317!2940 -1317|2940 1317!2940 1317|-2940 1317!-2940 1317|-2940 -1317"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

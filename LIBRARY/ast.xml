@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ast" itemID="585360f5-000000cd" linkageExportForAS="true" linkageClassName="ast" lastModified="1481859317">
+  <timeline>
+    <DOMTimeline name="ast">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="ast.png">
+                  <matrix>
+                    <Matrix a="0.305267333984375" d="0.305267333984375" tx="-25.15" ty="-23.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

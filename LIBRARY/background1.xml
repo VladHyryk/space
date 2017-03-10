@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="background1" itemID="5853022b-0000006b" linkageExportForAS="true" linkageClassName="background1" lastModified="1481835051">
+  <timeline>
+    <DOMTimeline name="background1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="repeating-background-3.jpg">
+                  <matrix>
+                    <Matrix a="1.50199890136719" d="1.12677001953125" tx="-411.55" ty="-308.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

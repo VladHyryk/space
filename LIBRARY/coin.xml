@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="coin" itemID="58532b5f-00000031" linkageExportForAS="true" linkageClassName="coin" lastModified="1481853193">
+  <timeline>
+    <DOMTimeline name="coin">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="coin.png">
+                  <matrix>
+                    <Matrix a="0.40625" d="0.40625" tx="-26" ty="-26"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

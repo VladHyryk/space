@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 10" itemID="58539da1-000002d5" lastModified="1481875010">
+  <timeline>
+    <DOMTimeline name="Символ 10">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="life_text" width="154.1" height="29.35">
+                  <matrix>
+                    <Matrix tx="-63.8" ty="-14.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>life%^:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="18" bitmapSize="360" face="StarJediHollow" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

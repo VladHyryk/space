@@ -1,0 +1,441 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="60" currentTimeline="1" xflVersion="2.6" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 15.0 build 173" majorVersion="15" buildNumber="173" rulerVisible="true" vanishingPoint3DX="400" vanishingPoint3DY="300" nextSceneIdentifier="3" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <fonts>
+          <DOMFontItem name="Шрифт 2" itemID="58537ef6-000001bf" font="StarJediHollow" size="0" id="3" sourceLastImported="1481866998" embedRanges="9999|1|2|3|4|5"/>
+          <DOMFontItem name="Шрифт 1" itemID="58537e64-000001ba" font="StarJedi" size="0" id="1" sourceLastImported="1481866851" embedRanges="9999|1|2|3"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="ast.png" itemID="585360bd-000000ca" sourceExternalFilepath="../space/LIBRARY/ast.png" sourceLastImported="1481902014" externalFileCRC32="332934217" externalFileSize="9049" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="ast.png" bitmapDataHRef="M 12 1481859261.dat" frameRight="3300" frameBottom="3080"/>
+          <DOMBitmapItem name="bam.png" itemID="58538557-00000200" sourceExternalFilepath="../space/LIBRARY/bam.png" sourceLastImported="1481902014" externalFileCRC32="1856618479" externalFileSize="85855" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="bam.png" bitmapDataHRef="M 11 1481868631.dat" frameRight="5120" frameBottom="3940"/>
+          <DOMBitmapItem name="coin.png" itemID="58532b54-0000002f" sourceExternalFilepath="../space/LIBRARY/coin.png" sourceLastImported="1481902014" externalFileCRC32="3176430390" externalFileSize="3388" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="coin.png" bitmapDataHRef="M 8 1481845588.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="fon.jpg" itemID="585304d7-0000009a" sourceExternalFilepath="../space/LIBRARY/fon.jpg" sourceLastImported="1481902014" externalFileCRC32="2086998496" externalFileSize="44261" allowSmoothing="true" quality="50" href="fon.jpg" bitmapDataHRef="M 3 1481835735.dat" frameRight="10960" frameBottom="10940" isJPEG="true"/>
+          <DOMBitmapItem name="ray.png" itemID="58536ba2-000000f3" sourceExternalFilepath="../space/LIBRARY/ray.png" sourceLastImported="1481902014" externalFileCRC32="1860261378" externalFileSize="20601" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="ray.png" bitmapDataHRef="M 16 1481862050.dat" frameRight="1760" frameBottom="1960"/>
+          <DOMBitmapItem name="repeating-background-3.jpg" itemID="58530017-00000059" sourceExternalFilepath="../space/LIBRARY/repeating-background-3.jpg" sourceLastImported="1481902014" externalFileCRC32="2086998496" externalFileSize="44261" allowSmoothing="true" quality="50" href="repeating-background-3.jpg" bitmapDataHRef="M 1 1481834519.dat" frameRight="10960" frameBottom="10940" isJPEG="true"/>
+          <DOMBitmapItem name="rocket.png" itemID="58530d0e-000000d0" sourceExternalFilepath="../space/LIBRARY/rocket.png" sourceLastImported="1481902014" externalFileCRC32="3661033500" externalFileSize="6691" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="rocket.png" bitmapDataHRef="M 4 1481837838.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="rocket1.png" itemID="58534afa-00000031" sourceExternalFilepath="../space/LIBRARY/rocket1.png" sourceLastImported="1481853630" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="rocket1.png" bitmapDataHRef="M 5 1481853690.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="rocket2.png" itemID="58535773-00000063" sourceExternalFilepath="../space/LIBRARY/rocket2.png" sourceLastImported="1481902014" externalFileCRC32="1727760432" externalFileSize="2253" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="rocket2.png" bitmapDataHRef="M 6 1481856883.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="rocket_left.png" itemID="58535773-00000067" sourceExternalFilepath="../space/LIBRARY/rocket_left.png" sourceLastImported="1481902014" externalFileCRC32="992384604" externalFileSize="3762" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="rocket_left.png" bitmapDataHRef="M 7 1481856883.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="rocket_right.png" itemID="58535773-0000006b" sourceExternalFilepath="../space/LIBRARY/rocket_right.png" sourceLastImported="1481902014" externalFileCRC32="2882279702" externalFileSize="1753" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="rocket_right.png" bitmapDataHRef="M 8 1481856883.dat" frameRight="2560" frameBottom="2560"/>
+     </media>
+     <symbols>
+          <Include href="Анимация 1.xml" itemIcon="1" loadImmediate="false" itemID="5853568c-0000005c" lastModified="1481856652"/>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="5853033e-00000085" lastModified="1481835326"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="5853053e-0000009f" lastModified="1481835838"/>
+          <Include href="Символ 3.xml" loadImmediate="false" itemID="58530583-000000a8" lastModified="1481835907"/>
+          <Include href="Символ 4.xml" itemID="58530598-000000b1" lastModified="1481883334"/>
+          <Include href="Символ 5.xml" itemIcon="0" loadImmediate="false" itemID="585307bd-000000bc" lastModified="1481837140"/>
+          <Include href="Символ 6.xml" loadImmediate="false" itemID="5853095f-000000c0" lastModified="1481836895"/>
+          <Include href="Символ 7.xml" loadImmediate="false" itemID="58538dce-000002a6" lastModified="1481870798"/>
+          <Include href="Символ 8.xml" loadImmediate="false" itemID="585390f6-000002bd" lastModified="1481871606"/>
+          <Include href="Символ 9.xml" loadImmediate="false" itemID="5853a6f1-000002da" lastModified="1481877233"/>
+          <Include href="Символ 10.xml" loadImmediate="false" itemID="58539da1-000002d5" lastModified="1481875010"/>
+          <Include href="ast.xml" itemID="585360f5-000000cd" lastModified="1481859317"/>
+          <Include href="background1.xml" itemID="5853022b-0000006b" lastModified="1481835051"/>
+          <Include href="background2.xml" itemID="585300a9-00000067" lastModified="1481835059"/>
+          <Include href="bam.xml" itemID="58538600-0000020c" lastModified="1481868905"/>
+          <Include href="coin.xml" itemID="58532b5f-00000031" lastModified="1481853193"/>
+          <Include href="exitButton_mc.xml" itemIcon="0" itemID="58538e98-000002b9" lastModified="1481871000"/>
+          <Include href="fon1.xml" itemID="585302f1-0000007b" lastModified="1481835737"/>
+          <Include href="fon2.xml" itemID="585302fc-00000080" lastModified="1481835737"/>
+          <Include href="movieClip_8.xml" itemID="585353c3-00000052" lastModified="1481855939"/>
+          <Include href="ray.xml" itemID="58536bad-000000f5" lastModified="1481862061"/>
+          <Include href="rocket_left.xml" loadImmediate="false" itemID="58535802-00000089" lastModified="1481857026"/>
+          <Include href="rocket_main.xml" loadImmediate="false" itemID="585357cb-00000072" lastModified="1481856971"/>
+          <Include href="rocket_right.xml" loadImmediate="false" itemID="585357fb-00000083" lastModified="1481857019"/>
+          <Include href="ship.xml" itemID="585369c6-000000ef" lastModified="1481861574"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" currentFrame="8" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;199&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Labels" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" duration="5" name="gameon" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" name="gameover" labelType="name" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[/* И только под конец я понят что надо было просто писать классами в IDEA
+а не страдать ерёндой в таймсайле флеша....опыт...*/
+stop();
+Mouse.show();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 4" name="movieClip_4" centerPoint3DX="395" centerPoint3DY="314.95">
+                                             <matrix>
+                                                  <Matrix a="1.00241088867188" d="1.29998779296875" tx="395" ty="314.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="430.4" height="105.3" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="179.8" ty="146.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>game over</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="66" bitmapSize="1320" face="StarJediHollow" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Actions" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+/* Счётчики для здоровья и очков*/
+var score:int = 0;
+score_text.text = "Score: 0";
+var lifes:int = 3;
+life_text.text = "Life: 3";
+
+/* Параллакс. Ну, вернее его подобия. Для параллакса надо было ходя бы
+три слоя, а тут получилось что на фоне движения ракеты, вселенная медленно
+ползёл вперёд */
+movieClip_3.addEventListener(Event.ENTER_FRAME, fl_AnimateVertically_3);
+
+function fl_AnimateVertically_3(event:Event) {
+    movieClip_3.y += 2;
+    movieClip_4.y += 2;
+
+    if (movieClip_3.y >= 1600) {
+        movieClip_3.y = -1600;
+    }
+    if (movieClip_4.y >= 1600) {
+        movieClip_4.y = -1600;
+    }
+
+}
+
+/* Создаём управления ракетой с помощью указателя мышки. 
+Самый простой и быстрый способ при таких требованиях. 
+Всё что нам нужно – следовать за координатами указателя, спрятав его.
+ */
+var cursor = ship;
+addChild(cursor);
+
+stage.addEventListener(MouseEvent.MOUSE_MOVE, redrawCursor);
+Mouse.hide();
+
+function redrawCursor(event:MouseEvent):void {
+    cursor.x = event.stageX;
+    cursor.y = event.stageY;
+}
+/* Ускорение. Теперь кораблик летает быстрее. Или мир...не суть.
+* Тут баг оказался, вернее не очень прописана формула смещения 
+* от чего фон ползет после длительного ускорения. Пофиксить!!!*/
+stage.addEventListener(KeyboardEvent.KEY_DOWN, fl_KeyboardDownHandler_3);
+
+function fl_KeyboardDownHandler_3(event:KeyboardEvent):void {
+    if (event.keyCode == Keyboard.SPACE) {
+        movieClip_3.y += 8;
+        movieClip_4.y += 8;
+    }
+
+}
+
+/* Монетки и формула их генерации. 
+Надо было бы доделать, чтобы с каждым уровнем монеток 
+становилось меньше и больше помех, но уровни решил не вводить*/
+var coins:Array = new Array;
+var i:int = -1;
+
+var coin_timer:Timer = new Timer(300, 1);
+coin_timer.start();
+
+coin_timer.addEventListener(TimerEvent.TIMER_COMPLETE, create_new_coin);
+function create_new_coin(event:TimerEvent) {
+    coin_timer.start();
+
+    var pos_x:int = Math.random() * 900;
+    var pos_y:int = -200;
+    var coin_speed_x:int = Math.random() * 3 - 2;
+    var coin_speed_y:int = Math.random() * 2 + 3;
+
+    var new_coin:MovieClip;
+    {
+        new_coin = new coin
+    }
+    new_coin.x = pos_x;
+    new_coin.y = pos_y;
+
+    i++;
+    coins[i] = new_coin;
+
+    addChild(coins[i]);
+    var j:int = i;
+
+    addEventListener(Event.ENTER_FRAME, new_coin_moving);
+    function new_coin_moving(event:Event) {
+        coins[j].x += coin_speed_x;
+        coins[j].y += coin_speed_y;
+
+        if (coins[j].y >= 900) {
+            removeEventListener(Event.ENTER_FRAME, new_coin_moving);
+            if (contains(coins[i])) removeChild(coins[i]);
+        }
+        for (var i:int = 0; i < coins.length; i++) {
+            if (cursor.hitTestObject(new_coin) == true) {
+                removeEventListener(Event.ENTER_FRAME, new_coin_moving)
+                removeChild(new_coin);
+                score++;
+                score_text.text = "Score:" + score.toString();
+
+
+            }
+        }
+    }
+}
+
+/* Космический мусор. Аналогично как и монетки, только эти штуки можно убивать с пушки.
+* Астероид астероиду рознь. 
+* Доделать пару типов - так будет веселее.*/
+var asts:Array = new Array;
+
+var i1:int = -1;
+
+var ast_timer:Timer = new Timer(600, 1);
+ast_timer.start();
+
+ast_timer.addEventListener(TimerEvent.TIMER_COMPLETE, create_new_ast);
+function create_new_ast(event:TimerEvent) {
+    ast_timer.start();
+
+    var pos_x:int = Math.random() * 800;
+    var pos_y:int = -200;
+    var ast_speed_x:int = Math.random() * 5 - 2;
+    var ast_speed_y:int = Math.random() * 3 + 3;
+
+    var new_ast:MovieClip;
+    {
+        new_ast = new ast
+    }
+    new_ast.x = pos_x;
+    new_ast.y = pos_y;
+
+    i1++;
+    asts[i1] = new_ast;
+
+    addChild(asts[i1]);
+
+    var j1:int = i1;
+
+    addEventListener(Event.ENTER_FRAME, new_ast_moving);
+    function new_ast_moving(event:Event) {
+        asts[j1].x += ast_speed_x;
+        asts[j1].y += ast_speed_y;
+
+        if (asts[j1].y >= 900) {
+            removeEventListener(Event.ENTER_FRAME, new_ast_moving);
+            if (contains(asts[i1])) removeChild(asts[i1]);
+        }
+        for (var i1:int = 0; i1 < asts.length; i1++) {
+            if (cursor.hitTestObject(new_ast) == true) {
+                removeEventListener(Event.ENTER_FRAME, new_ast_moving)
+                removeChild(new_ast);
+                lifes--;
+                life_text.text = "Live:" + lifes.toString();
+
+                if (lifes == 0) {
+                    gotoAndStop("gameover")
+                }
+
+            }
+        }
+    }
+}
+
+/* Собственно кликер. Или пушка. Надо же в космосе как-то развлекаться.
+* Блин, если это кто читает - не судите строго, я за actionscript первый раз...
+* Зато весело.*/
+addEventListener(MouseEvent.CLICK, create_new_ray);
+function create_new_ray(event:MouseEvent) {
+    var new_ray:ray = new ray;
+
+    new_ray.x = ship.x;
+    new_ray.y = ship.y - 50;
+    addChild(new_ray);
+
+    addEventListener(Event.ENTER_FRAME, new_ray_moving);
+    function new_ray_moving(event:Event) {
+
+        new_ray.y -= 7;
+        if (new_ray.y <= -50) {
+            removeEventListener(Event.ENTER_FRAME, new_ray_moving)
+            removeChild(new_ray);
+
+        }
+        for (var i1:int = 0; i1 < asts.length; i1++) {
+            if (new_ray.hitTestObject(asts[i1]) == true) {
+                removeEventListener(Event.ENTER_FRAME, new_ray_moving)
+                removeChild(new_ray);
+                score++;
+                score_text.text = "Score:" + score.toString();
+                asts[i1].y = 1000;
+            }
+        }
+    }
+}
+/* Что-то начинается, что-то кончается...*/
+
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="coin" centerPoint3DX="-64" centerPoint3DY="61.6">
+                                             <matrix>
+                                                  <Matrix a="0.3125" d="0.3125" tx="-64" ty="61.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="ship" name="ship" centerPoint3DX="400" centerPoint3DY="457.35">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="457.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 3" name="movieClip_3" centerPoint3DX="404.95" centerPoint3DY="-135.5">
+                                             <matrix>
+                                                  <Matrix a="1.00241088867188" d="0.9918212890625" tx="404.95" ty="-135.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="ast" centerPoint3DX="905.35" centerPoint3DY="471.75">
+                                             <matrix>
+                                                  <Matrix tx="905.35" ty="471.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="ray" name="movieClip_9" centerPoint3DX="937.65" centerPoint3DY="583.7">
+                                             <matrix>
+                                                  <Matrix tx="937.65" ty="583.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 3" name="movieClip_3" centerPoint3DX="404.95" centerPoint3DY="-775.55">
+                                             <matrix>
+                                                  <Matrix a="1.00241088867188" d="1.29997253417969" tx="404.95" ty="-775.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 4" name="movieClip_4" centerPoint3DX="404.95" centerPoint3DY="1321.55">
+                                             <matrix>
+                                                  <Matrix a="1.00241088867188" d="1.29998779296875" tx="404.95" ty="1321.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="coin" centerPoint3DX="-44" centerPoint3DY="81.6">
+                                             <matrix>
+                                                  <Matrix a="0.3125" d="0.3125" tx="-44" ty="81.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="ship" name="ship" centerPoint3DX="420" centerPoint3DY="477.35">
+                                             <matrix>
+                                                  <Matrix tx="420" ty="477.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="score_text" width="127.6" height="29.35">
+                                             <matrix>
+                                                  <Matrix tx="31.8" ty="19.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Score:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="18" bitmapSize="360" face="StarJediHollow" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="life_text" width="100" height="28.7">
+                                             <matrix>
+                                                  <Matrix tx="707.95" ty="19.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Lifes%:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="18" bitmapSize="360" face="StarJediHollow" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n='Событие "Щелчок кнопкой мыши"' t="i" v="2"/>
+          <PD n='Событие "Нажата клавиша"' t="i" v="4"/>
+          <PD n="Постепенное появление фрагмента ролика" t="i" v="3"/>
+          <PD n="Анимация по вертикали" t="i" v="5"/>
+          <PD n="Простой таймер" t="i" v="2"/>
+          <PD n="Показать объект" t="i" v="4"/>
+          <PD n="snippetCounter" t="i" v="11"/>
+          <PD n="Нажмите для перехода к следующему кадру и остановке воспроизведения" t="i" v="2"/>
+          <PD n="Перетаскивание" t="i" v="2"/>
+          <PD n="Загрузить внешний текст" t="i" v="2"/>
+          <PD n="Нажмите для перехода к кадру и остановки воспроизведения" t="i" v="2"/>
+          <PD n="Нажмите для перехода к кадру и начала воспроизведения" t="i" v="3"/>
+          <PD n="Нажмите для загрузки/выгрузки файла SWF или изображения" t="i" v="2"/>
+          <PD n="Таймер обратного отсчета" t="i" v="2"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="179589" publishTime="1481902862"/>
+          <PublishItem publishSize="179589" publishTime="1481902757"/>
+          <PublishItem publishSize="179584" publishTime="1481883932"/>
+          <PublishItem publishSize="169995" publishTime="1481883924"/>
+          <PublishItem publishSize="169995" publishTime="1481883919"/>
+          <PublishItem publishSize="169995" publishTime="1481883912"/>
+          <PublishItem publishSize="179584" publishTime="1481883413"/>
+          <PublishItem publishSize="179135" publishTime="1481882227"/>
+          <PublishItem publishSize="179135" publishTime="1481881687"/>
+          <PublishItem publishSize="157028" publishTime="1481880216"/>
+          <PublishItem publishSize="157028" publishTime="1481880201"/>
+          <PublishItem publishSize="157028" publishTime="1481880154"/>
+          <PublishItem publishSize="157028" publishTime="1481880138"/>
+          <PublishItem publishSize="157028" publishTime="1481880095"/>
+          <PublishItem publishSize="156962" publishTime="1481880042"/>
+          <PublishItem publishSize="157028" publishTime="1481879986"/>
+          <PublishItem publishSize="157030" publishTime="1481879959"/>
+          <PublishItem publishSize="153953" publishTime="1481879940"/>
+          <PublishItem publishSize="157030" publishTime="1481879816"/>
+          <PublishItem publishSize="157022" publishTime="1481879746"/>
+     </publishHistory>
+</DOMDocument>

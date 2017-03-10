@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="movieClip_8" itemID="585353c3-00000052" linkageExportForAS="true" linkageClassName="movieClip_8" lastModified="1481855939">
+  <timeline>
+    <DOMTimeline name="movieClip_8">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="rocket.png">
+                  <matrix>
+                    <Matrix a="0.628128051757813" d="0.628128051757813" tx="-40.2" ty="-40.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

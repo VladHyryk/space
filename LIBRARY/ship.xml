@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ship" itemID="585369c6-000000ef" linkageExportForAS="true" linkageClassName="Символ8" lastModified="1481861574" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ship" currentFrame="1">
+      <layers>
+        <DOMLayer name="Actions" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="rocket_main" name="movieClip_8" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+movieClip_8.visible = false;
+stage.addEventListener(KeyboardEvent.KEY_DOWN, fl_KeyboardDownHandler_3);
+
+function fl_KeyboardDownHandler_3(event:KeyboardEvent):void
+{
+    if (event.keyCode == Keyboard.SPACE
+)
+    {
+
+		movieClip_8.visible = true;
+    }
+    
+}]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="rocket_main" name="movieClip_8" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="rocket1.png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.625" tx="-40" ty="-40"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
